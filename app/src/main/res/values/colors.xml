@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33383C</color>
+    <color name="colorPrimaryDark">#33383C</color>
+    <color name="colorAccent">#F3F3F3</color>
+
+    <color name="bg_skillsnotebook">#FDF49D</color>
+    <color name="bg_skillsnote_underline">#E4D997</color>
+</resources>
